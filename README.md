@@ -112,6 +112,10 @@ terraform destroy
 
 Enter `yes` when prompted.
 
+## 📸 Screenshots
+
+Screenshots of the Terraform EC2 deployment are included in the `screenshort` folder.
+
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
