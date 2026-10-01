@@ -114,7 +114,7 @@ Enter `yes` when prompted.
 
 ## 📸 Screenshots
 
-Screenshots of the Terraform EC2 deployment are included in the `screenshort` folder.
+Screenshots of the Terraform VPC deployment are included in the `screenshort` folder.
 
 ## 🎯 Learning Outcomes
 
